@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Working with ButterKnife ViewBinding Library</string>
+    <string name="title_string">this is the title</string>
+</resources>
